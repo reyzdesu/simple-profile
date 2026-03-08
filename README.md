@@ -6,13 +6,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🌐 Netlify: [https://reicdrs.netlify.app](https://reicdrs.netlify.app)  
-📄 GitHub Pages: [https://reyzdesu.github.io/simple-profile](https://reyzdesu.github.io/simple-profile)
-
----
-
 ## 🎨 Preview
 
 ![Preview](https://files.catbox.moe/drn6kg.jpg)
