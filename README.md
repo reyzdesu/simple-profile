@@ -6,7 +6,7 @@
 
 ---
 
-## 🎨 Preview
+## Preview Webitse
 
 ![Preview](https://files.catbox.moe/igp3ye.jpg)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - Profil resmi **@reicdrs**  
 - Tombol **Social Media**: WhatsApp Group & Channel  
