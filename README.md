@@ -1,4 +1,4 @@
-# 🌟 NekoBot Official Web
+# NekoBot Official Web
 
 ![Header](https://files.catbox.moe/drn6kg.jpg)
 
@@ -8,7 +8,7 @@
 
 ## 🎨 Preview
 
-![Preview](https://files.catbox.moe/drn6kg.jpg)
+![Preview](https://files.catbox.moe/igp3ye.jpg)
 
 - Tampilan minimalis & modern  
 - Animasi smooth di section & tombol  
